@@ -1,2 +1,2 @@
-# cmsi385
-LMU CMSI 385 Game Design
+# cmsi375
+LMU CMSI 375 Game Design
